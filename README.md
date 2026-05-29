@@ -37,6 +37,7 @@ I build and maintain backend systems and production infrastructure. My day-to-da
 ## Currently
 
 Backend & DevOps Engineer at **Brofesional.id** (Mar 2024 – Present)
+
 Previously built admin dashboards and management systems as a frontend developer on the same platform.
 
 Freelanced on **QezaCare** — a healthcare management web dashboard covering clinic branches, doctor scheduling, reservations, and payments.
