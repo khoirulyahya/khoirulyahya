@@ -41,6 +41,8 @@ Previously built admin dashboards and management systems as a frontend developer
 
 Freelanced on **QezaCare** — a healthcare management web dashboard covering clinic branches, doctor scheduling, reservations, and payments.
 
+🌍 Currently exploring remote full-time opportunities in backend and infrastructure engineering.
+
 ---
 
 ## Links
