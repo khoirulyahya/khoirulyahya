@@ -2,7 +2,7 @@
 
 **Backend, DevOps & Agentic Systems Engineer** · Yogyakarta, Indonesia · Open to remote opportunities
 
-[🌐 Live Portfolio](https://khoirulyahya.github.io/) · [💼 LinkedIn](https://linkedin.com/in/khoirul-yahya) · [📧 Email](mailto:khoiruly28@gmail.com)
+[🌐 Live Portfolio](https://khoirulyahya.github.io/) · [💼 LinkedIn](https://linkedin.com/in/khoirul-yahya) · [✍️ Medium](https://medium.com/@khoiruly28) · [📧 Email](mailto:khoiruly28@gmail.com)
 
 I build Laravel backends, manage Linux infrastructure, and architect Agentic AI workflows with custom tools, vector databases, and production gateways. My work bridges application code, production reliability, and autonomous AI systems.
 
