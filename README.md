@@ -17,7 +17,16 @@ I build Laravel backends, manage Linux infrastructure, and architect Agentic AI 
 [![DevOps](https://skillicons.dev/icons?i=docker,nginx,ubuntu,bash,github,githubactions)](https://skillicons.dev)
 
 **AI & Agentic Systems**  
-`Qdrant Vector DB` · `Model Context Protocol (MCP)` · `Ollama RAG` · `Hermes Agent Bridges` · `Antigravity CLI Engine`
+[![AI Stack](https://skillicons.dev/icons?i=py,copilot)](https://skillicons.dev)  
+<p>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/OpenAI%20%2F%20Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Ollama%20RAG-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Qdrant%20Vector%20DB-DC2626?style=flat-square&logo=qdrant&logoColor=white" alt="Qdrant" />
+  <img src="https://img.shields.io/badge/Model%20Context%20Protocol-MCP-6366F1?style=flat-square" alt="MCP" />
+</p>
 
 **Frontend & Dashboard**  
 [![Frontend](https://skillicons.dev/icons?i=react,ts,js,tailwind)](https://skillicons.dev)
